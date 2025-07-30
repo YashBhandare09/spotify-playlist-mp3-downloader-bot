@@ -1,0 +1,5 @@
+downloads/
+*.mp3
+__pycache__/
+*.pyc
+.env
